@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🧑‍💻 I'm currently working on Maps and Navigation Mobile SDK for [Flutter](https://pub.dev/packages/dgis_mobile_sdk_full), [Android](https://github.com/2gis/mobile-sdk-android-demo) and [iOS](https://github.com/2gis/mobile-sdk-ios-demo).
+- 🔨Also [contributing](https://github.com/flutter/flutter/issues?q=author%3Asameri11) to Flutter itself and it's ecosystem.
+- 📔Studying DevEx and automation to improve processes and simplify team's work.
+
 <!--
 **Sameri11/sameri11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
